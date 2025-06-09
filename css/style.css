@@ -1,11 +1,11 @@
 :root {
-  --cor-bg: #f5f6fa;
-  --cor-texto: #1e1e2f;
+  --cor-bg: #4460d1;
+  --cor-texto: #a226bb;
   --cor-primaria: #6C63FF;
   --cor-secundaria: #FF6584;
-  --cor-bg-dark: #121212;
-  --cor-texto-dark: #f1f1f1;
-  --cor-card-dark: #1f1f1f;
+  --cor-bg-dark: #4b4646;
+  --cor-texto-dark: #9089cc;
+  --cor-card-dark: #a34c4c;
 }
 
 * {
